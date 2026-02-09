@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Im an AI engineer working with fullstack applications.
 

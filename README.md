@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im an AI engineer working with fullstack applications.
+Im an AI engineer working with fullstack applications.....
 
 
 ## 🌐 Socials:
